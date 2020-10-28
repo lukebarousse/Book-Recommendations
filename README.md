@@ -3,15 +3,23 @@
 ### Basics
 - [Python Tricks: A Buffet of Awesome Python Features (Books)](https://www.amazon.com/gp/product/1775093301/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)  
 by Bader, Dan
-    - Great mid-level intro book to explaining all of the features you should know in Python.  A great go-to once you 
-    have all of the basics down in Python.  Super easy and fun to read.
+    - Great mid-level intro book to explaining all of the features you should know in Python.  A great go-to once you have some of the basics down in Python.  Super easy and fun to read.
 
 ### Machine Learning
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/gp/product/1492032646/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)  
 by Géron, Aurélien
-    - Mid to advanced-level "intro" book to machine learning.  Really focuses on the principles behind machine
-    learning techniques.  Sometimes it can be a bit to advanced for my liking, but overall a must read if getting into
-    Machine Learning.  Also provides you with a ton of python notebooks to see code examples.
+    - Mid to advanced-level "intro" book to machine learning.  Really focuses on the principles behind machine learning techniques.  Sometimes it can be a bit to advanced for my liking, but overall a must read if getting into
+    Machine Learning.  Also provides you with a ton of python notebooks to see code examples.### Machine Learning
+
+### App/Web Development
+- [Flask Web Development: Developing Web Applications with Python](https://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1491991739/ref=sr_1_3?dchild=1&keywords=flask+web+development&qid=1603852184&sr=8-3)  
+by Miguel Grinberg
+    - A must read if you want to start building python apps. Flask is a popular lightweight framework that is perfect for the IOT. My [smart aquarium project] uses Flask as a framework for the app. The first half of the book is exceptional at explaining the core of the framework.  The second half goes into detail for building website app features that I didn't find useful. I would recommend skimming these chapters.
+
+### DevOps
+- [Python for DevOps: Learn Ruthlessly Effective Automation](https://www.amazon.com/Python-DevOps-Ruthlessly-Effective-Automation/dp/149205769X/ref=sr_1_2?crid=36VACFDSC7MUC&dchild=1&keywords=python+for+devops&qid=1603851843&sprefix=python+for+devops%2Caps%2C192&sr=8-2)  
+by Noah Gift, Kennedy Behrman, Alfredo Deza, & Grig Gheorghiu
+    - Great intro book to DevOps with Python.  Learn how to automate tasks through the command line and build packages.  Additionally, this book discusses how to build and launch a ML project.
     
 ## Power BI / Power Query
 - [Power Pivot and Power BI: The Excel User's Guide to DAX, Power Query, Power BI & Power Pivot in Excel 2010-2016 The Excel User's Guide to DAX, Power Query, Power BI & Power Pivot in Excel 2010-2016](https://www.amazon.com/gp/product/1615470395/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)  
