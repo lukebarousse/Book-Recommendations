@@ -1,4 +1,8 @@
 # Book-Recommendations
+## General
+- [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257/ref=sr_1_3?dchild=1&keywords=Storytelling+with+data&qid=1605194625&sr=8-3) by Cole Nussbaumer Knaflic
+    - This book transformed the way I thought about communicating insights from data.  I really enjoyed the systematic approach that the book used to build up basic skills one should utilize when communicating stories with data.  A must read for any data analyst/scientist.
+
 ## Python
 ### Basics
 - [Python Tricks: A Buffet of Awesome Python Features (Books)](https://www.amazon.com/gp/product/1775093301/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)  
@@ -9,7 +13,7 @@ by Bader, Dan
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/gp/product/1492032646/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)  
 by Géron, Aurélien
     - Mid to advanced-level "intro" book to machine learning.  Really focuses on the principles behind machine learning techniques.  Sometimes it can be a bit to advanced for my liking, but overall a must read if getting into
-    Machine Learning.  Also provides you with a ton of python notebooks to see code examples.### Machine Learning
+    Machine Learning.  Also provides you with a ton of python notebooks to see code examples.
 
 ### App/Web Development
 - [Flask Web Development: Developing Web Applications with Python](https://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1491991739/ref=sr_1_3?dchild=1&keywords=flask+web+development&qid=1603852184&sr=8-3)  
